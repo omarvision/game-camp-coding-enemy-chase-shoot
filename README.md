@@ -1,2 +1,4 @@
 # game-camp-coding-enemy-chase-shoot
 day 1 and 2 of game camp we learned the Unity interface and placed objects in a scene. Then we finally made a player object in the scene that we moved and controlled using the W,A,S,D keys (or arrow keys) to move around the scene as we played the game.  this video cover day 3 and 4 of the game camp of June 2019.  We introduced some AI gameobjects that can move around the scene on their own randomly.  And we improved the control of our player in the scene. The enemies are spawned into the game using an enemies script. Our player is now able to look out from a first person point of view. We made a child camera object to see out of our players eyes. We look around with the mouse and move with W,A,S,D  AND we can shoot shots.  The shots use an idea called pooling. which we learn about too.
+
+YouTube:  https://youtu.be/_5AcwghJq0Q
